@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class RoomComponent: MonoBehaviour
 {
-    [SerializeField] TMP_Text roomNameText;
+   [SerializeField] TMP_Text roomNameText;
     [SerializeField] Button button;
 
     LobbyManager manager;
